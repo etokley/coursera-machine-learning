@@ -1,2 +1,2 @@
 # coursera-machine-learning
-This is a repository of all assignments in a Machine Learning Course on coursera
+This is a repository of all assignments with my respective solutions in a Machine Learning Course on coursera by Andrew Ng
